@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0068-text-justification) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0135-candy) |
 | [1260-shift-2d-grid](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/1260-shift-2d-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -129,4 +133,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
