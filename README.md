@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0135-candy) |
 | [0322-coin-change](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0322-coin-change) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/1260-shift-2d-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0012-integer-to-roman) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0148-sort-list) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Merge Sort
 |  |
 | ------- |
