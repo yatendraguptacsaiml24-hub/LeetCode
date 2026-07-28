@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0068-text-justification](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0068-text-justification) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0052-n-queens-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
