@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/1260-shift-2d-grid) |
+| [1406-stone-game-iii](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/1406-stone-game-iii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/1406-stone-game-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
@@ -215,4 +218,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
