@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0135-candy) |
+| [0260-single-number-iii](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0260-single-number-iii) |
 | [0322-coin-change](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0260-single-number-iii](https://github.com/yatendraguptacsaiml24-hub/https-github.com-yatendraguptacsaiml24-hub-leetcode/tree/master/0260-single-number-iii) |
 ## Depth-First Search
 |  |
 | ------- |
